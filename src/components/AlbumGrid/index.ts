@@ -1,0 +1,1 @@
+export { DiscographyGridView } from './DiscographyGridView';
